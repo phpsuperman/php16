@@ -1,7 +1,8 @@
 <?php
 class test
 {
-	public function(){
+	public function()
+	{
 		echo :1111;
 	}
 }
